@@ -1,0 +1,41 @@
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.pdb
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.pdb
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll.config
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.pdb
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.xml
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
+D:\Win10\Desktop\Yeni klasör (2)\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
